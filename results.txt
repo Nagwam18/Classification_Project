@@ -1,0 +1,8 @@
+Silhouette Score for People Wikipedia (K-Means): 0.380
+Silhouette Score for 20 Newsgroups (K-Means): 0.736
+Purity Score for 20 Newsgroups (K-Means): 0.401
+Purity Score for People Wikipedia (K-Means): 0.000
+Silhouette Score for People Wikipedia (Hierarchical): 0.329
+Silhouette Score for 20 Newsgroups (Hierarchical): 0.745
+Purity Score for 20 Newsgroups (Hierarchical): 0.400
+Purity Score for People Wikipedia (Hierarchical): 0.000
